@@ -1,1 +1,1 @@
-# .github
+Corridon Capital.
